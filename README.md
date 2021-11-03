@@ -7,7 +7,7 @@ Emmanuel049 - Emmanuel Matias Vargas Castiglia - Emmanuelvargas0149@gmail.com - 
 NicolasPileci - Nicolás Antonio Pileci - nicolas.pileci@gmail.com - https://www.linkedin.com/in/nicolaspileci/ - Developer - Curso DevOps en Educación IT 
 
 
-Adán Rodríguez - aj.rdrgz444@gmail.com - www.linkedin.com/in/adán-rodríguez - Developer - Curso DevOps en Educación IT 
+adanrdrgz - Adán Rodríguez - aj.rdrgz444@gmail.com - www.linkedin.com/in/adán-rodríguez - Developer - Curso DevOps en Educación IT 
 
 
 melanivila - Melani Vila - melanib.vila@gmail.com - https://www.linkedin.com/in/melani-vila/ - Developer - Curso DevOPS en Educación I
