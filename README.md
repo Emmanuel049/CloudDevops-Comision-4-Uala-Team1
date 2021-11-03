@@ -26,4 +26,5 @@ IgnacioT99 - Ignacio Trotta - ignacio.trotta99@gmail.com - https://www.linkedin.
 Verito01 - Aldana Veronica Pachado - p.aldana.academic@gmail.com - https://github.com/Aldana-Pachado - Ing. de Seguridad - Curso DevOps en Educación IT
 
 
-FerToral - Fernando José Toralez - fernandojosetoralez@gmail.com - Full Stack Developer - Curso DevOps en Educación IT
+FerToral - Fernando José Toralez - fernandojosetoralez@gmail.com - www.linkedin.com/in/fernando-jose-toralez
+ - Full Stack Developer - Curso DevOps en Educación IT
