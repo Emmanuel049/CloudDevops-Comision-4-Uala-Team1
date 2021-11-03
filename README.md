@@ -8,7 +8,7 @@ Nicolás Antonio Pileci - nicolas.pileci@gmail.com - https://www.linkedin.com/in
 Adán Rodríguez - aj.rdrgz444@gmail.com - www.linkedin.com/in/adán-rodríguez - Developer - Curso DevOps en Educación IT 
 
 
-melanivila - melanib.vila@gmail.com - https://www.linkedin.com/in/melani-vila/ - Developer - Curso DevOPS en Educación I
+Melani Vila - melanib.vila@gmail.com - https://www.linkedin.com/in/melani-vila/ - Developer - Curso DevOPS en Educación I
 
 
 fedeestray - Federico Uriel Estray - fedeestray@gmail.com - https://www.linkedin.com/in/federico-uriel-e-6a3276b5/ - Developer - Curso DevOPS en Educación IT
