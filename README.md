@@ -28,4 +28,4 @@ Verito01 - Aldana Veronica Pachado - p.aldana.academic@gmail.com - https://githu
 
 FerToral - Fernando José Toralez - fernandojosetoralez@gmail.com - www.linkedin.com/in/fernando-jose-toralez - Full Stack Developer - Curso DevOps en Educación IT
 
-dpoveda - Daniela Andrea Poveda - daniela.97.poveda@gmail.com - www.linkedin.com/in/dpoveda123 - Full Stack Developer - Curso DevOps en Educación IT
+dpoveda - Daniela Andrea Poveda - daniela.97.poveda@gmail.com - www.linkedin.com/in/dpoveda123 - Developer - Curso DevOps en Educación IT
