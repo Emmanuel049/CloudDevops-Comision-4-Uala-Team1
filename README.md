@@ -5,7 +5,7 @@ Miembros:
 Nicolás Antonio Pileci - nicolas.pileci@gmail.com - https://www.linkedin.com/in/nicolaspileci/ - Developer - Curso DevOps en Educación IT 
 
 
-adanrdrgz
+Adán Rodríguez - aj.rdrgz444@gmail.com - www.linkedin.com/in/adán-rodríguez - Developer - Curso DevOps en Educación IT 
 
 
 melanivila
