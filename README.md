@@ -11,7 +11,7 @@ Adán Rodríguez - aj.rdrgz444@gmail.com - www.linkedin.com/in/adán-rodríguez 
 melanivila
 
 
-Federico Uriel Estray - fedeestray@gmail.com - https://www.linkedin.com/in/federico-uriel-e-6a3276b5/ - Developer - Curso DevOPS en Educación IT
+fedeestray - Federico Uriel Estray - fedeestray@gmail.com - https://www.linkedin.com/in/federico-uriel-e-6a3276b5/ - Developer - Curso DevOPS en Educación IT
 
 
 erikafarias
