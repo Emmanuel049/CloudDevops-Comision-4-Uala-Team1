@@ -2,6 +2,8 @@
 
 Miembros:
 
+Emmanuel049 - Emmanuel Matias Vargas Castiglia - Emmanuelvargas0149@gmail.com - https://www.linkedin.com/in/emmanuel-matias-vargas-castiglia-377b151b9/ - PO - Curso DevOps en Educación IT 
+
 Nicolás Antonio Pileci - nicolas.pileci@gmail.com - https://www.linkedin.com/in/nicolaspileci/ - Developer - Curso DevOps en Educación IT 
 
 
