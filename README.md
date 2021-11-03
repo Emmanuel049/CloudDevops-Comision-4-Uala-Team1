@@ -2,7 +2,7 @@
 
 Miembros:
 
-NicolasPileci
+Nicolás Antonio Pileci - nicolas.pileci@gmail.com - https://www.linkedin.com/in/nicolaspileci/ - Developer - Curso DevOps en Educación IT 
 
 
 adanrdrgz
