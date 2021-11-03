@@ -21,4 +21,4 @@ erikafarias - Erika Farias - erika.aldana.farias@gmail.com - https://www.linkedi
 
 IgnacioT99 - Ignacio Trotta - ignacio.trotta99@gmail.com - https://www.linkedin.com/in/ignacio-trotta/ - Cloud Architect - Curso DevOps en Educación IT
 
-Aldana Pachado - p.aldana.academic@gmail.com - https://github.com/Aldana-Pachado - Ing. de Seguridad - Curso DevOps en Educación IT
+Verito01 - Aldana Veronica Pachado - p.aldana.academic@gmail.com - https://github.com/Aldana-Pachado - Ing. de Seguridad - Curso DevOps en Educación IT
