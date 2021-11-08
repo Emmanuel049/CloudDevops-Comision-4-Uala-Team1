@@ -1,0 +1,13 @@
+* Instalar Git, en su ultima versión. 
+    Estado: 
+* Instalar Visual Studio en su ultima versión , luego, instalen el Plugin de Terraform, el Plugin de HTML Marks, y el Plugin de autocompletado, así como los Plugins de Javascript, de Node y React. 
+    Estado:
+* Sincronizar Visual Studio Code con la cuenta de Github, en este caso, será necesario que la sincronizen y que cada miembro cargue que ha podido sincronizar su Visual Studio con el repositorio de Github del proyecto. 
+    Estado: Done. Captura en ./imagenes/Tarea2.txt
+* Instalar NodeJS en su ultima versión
+    Estado: Done. Captura en ./imagenes/Tarea2.txt
+* Luego será necesario que instalen el modulo de ReactJS y de Express
+    Estado:
+* Actualizar también los estados de las tareas en trello, el objetivo será actualizar todo el progreso de manera proactiva en los tableros de Trello y en el Proyecto de Github
+    Estado: Work In Progress
+
