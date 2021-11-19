@@ -1,0 +1,22 @@
+1- Creación de cuentas gratuitas en:
+	- Amazon Web Services
+	- Google Cloud Platform
+	- Microsoft Azure
+ESTADO: Completo
+
+2- Utilizando Amazon Web Services crear:
+
+2.1- Una instancia de Windows Server 2019 bajo las caracteristicas especificadas en el TP (Entorno Development)
+2.2- Una instancia de Windows Server 2012 bajo las caracteristicas especificadas en el TP (Entorno Stage)
+2.3- Una instancia de Windows Server 2016 bajo las caracteristicas especificadas en el TP (Entorno Producción)
+
+ESTADO: En Proceso
+	(2.1 hecho)
+
+3- Utilizando la instancia de WS2019:
+
+3.1- Cambiar fondo de pantalla
+3.2- Instalar herramientas señaladas en el TP
+3.3- Crear una AMI a partir de esta y distribuir al resto de colaboradores.
+
+ESTADO: Incompleto
