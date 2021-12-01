@@ -1,0 +1,76 @@
+provider "aws" {
+    region = "eu-west-3"
+    access_key = "AKIAQVNEPXTP4O7Q433B"     //Usuario
+    secret_key = "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"     //CONTRASEÑA    
+    
+    ##En este punto ya estaria logueada a el usuario de AWS
+}
+
+resource "aws_security_group" {
+  name = "team1-security_group"
+  description = "Security Group usado en Team 1"
+
+  ingress {
+    from_port = 80
+    to_port = 80
+    protocol = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
+  }
+
+  egress {
+    from_port = 0 
+    to_port = 0
+    protocol = "-1"
+    cidr_blocks = [ "0.0.0.0/0" ]
+  }
+}
+
+resource "aws_lb" "test" {
+  name               = "team1-load-balancer"
+  internal           = false
+  load_balancer_type = "application"
+  security_groups    = team1-security_group
+  subnets            = aws_subnet.public.*.id
+
+  enable_deletion_protection = true
+
+  tags = {
+    Environment = "Cloud Devops"
+  }
+}
+
+resource "aws_instance" "example" {
+    ami = "ami-0357d42faf6fa582f" // ID de la AMI
+    instance_type = "t2.micro"
+    tags = {
+      "Name" = "Mi instancia con Terraform CloudDevops"
+    }
+}
+##Creacion de instancias
+
+resource "aws_security_group" "instance" {
+    name = "terraform-tcp-security-group"
+    ingress = [ {
+      cidr_blocks = [ "0.0.0.0/0" ]
+      ##description = "value"
+      from_port = 80
+      ##ipv6_cidr_blocks = [ "value" ]
+      ##prefix_list_ids = [ "value" ]
+      protocol = "tcp"
+      ##security_groups = [ "value" ]
+      ##self = false
+      to_port = 80
+    } ]
+    egress = [ {
+      cidr_blocks = [ "0.0.0.0/0" ]
+      ##description = "value"
+      from_port = 80
+      ##ipv6_cidr_blocks = [ "value" ]
+      ##prefix_list_ids = [ "value" ]
+      protocol = "tcp"
+      ##security_groups = [ "value" ]
+      ##self = false
+      to_port = 80
+    } ]
+}
+##Creacion de grupo de seguridad
